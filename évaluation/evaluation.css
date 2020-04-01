@@ -1,0 +1,18 @@
+.tablet{
+	display:flexbox
+}
+img{
+	max-width:100%;height:auto
+}
+#boite_1,#boite_2,#boite_3{
+	border:1px solid black;
+	text-align:center;
+	padding-top:50%;
+	padding-bottom:50%;
+}
+@media (min-width: 768px) and (max-width: 991px){
+
+.tablet{
+	display:box
+}}
+/*# sourceMappingURL=evaluation.css.map */
